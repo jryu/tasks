@@ -1,0 +1,3 @@
+[submodule "recurring"]
+	path = recurring
+	url = https://github.com/jryu/recurring.git
